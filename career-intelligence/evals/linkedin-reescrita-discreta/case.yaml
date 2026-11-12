@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: linkedin-reescrita-discreta
+expected_outcome: |
+  A resposta entrega diagnóstico curto e textos prontos (headline com 2 ou 3 opções e Sobre) com contagem de caracteres dentro dos limites (220 e 2.600), sem Markdown dentro dos textos para colar, sem marcas de texto de IA da lista da skill e sem números que não estão no perfil colado. Como a pessoa está empregada, orienta a desligar o compartilhamento de atualizações antes de editar e avisa do risco residual.

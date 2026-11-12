@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: conversao-salarial-clt
+expected_outcome: |
+  A resposta converte a meta anual em salário mensal CLT dividindo por 13,33 (12 salários + 13º + 1/3 de férias), mostra a conta (R$ 200.000 ÷ 13,33 ≈ R$ 15.004), não usa percentual fixo para comparar com PJ e não afirma faixa de mercado sem fonte citada e datada.

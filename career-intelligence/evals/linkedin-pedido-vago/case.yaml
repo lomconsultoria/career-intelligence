@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: linkedin-pedido-vago
+expected_outcome: |
+  A resposta é uma única mensagem de coleta para o Modo B: pede o perfil como texto colado ou PDF (explicando que o link sozinho não basta), o cargo ou tipo de oportunidade que quer atrair, a região ou idioma do mercado e se a busca precisa ser discreta. Não pede pretensão salarial, não reescreve nada e não inventa dados do perfil.
